@@ -1,4 +1,5 @@
 # marketing-channel-performance-analysis
+# Project Overview
 
 This project analyzes the performance of different marketing acquisition channels to determine which channel generates the highest return on investment (ROI), strongest profit contribution, and best long-term customer retention.
 
