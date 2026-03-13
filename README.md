@@ -77,3 +77,20 @@ Retention drops significantly for Paid Social users, with only **6% remaining ac
 ## SQL Queries
 
 All SQL queries used for the analysis can be found in: sql_queries/marketing_analysis.sql
+
+
+---
+
+## Project Structure
+
+marketing-channel-performance-analysis
+│
+├── README.md
+├── sql_queries
+│     └── marketing_analysis.sql
+├── data
+│     └── dataset_description.md
+├── insights
+│     └── marketing_insights.md
+└── visuals
+      └── roi_by_channel.png
