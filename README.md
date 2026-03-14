@@ -74,6 +74,12 @@ Retention drops significantly for Paid Social users, with only **6% remaining ac
 
 ---
 
+## Marketing Channel ROI
+
+![ROI by Channel](visuals/roi_by_channel.png)
+
+---
+
 ## SQL Queries
 
 All SQL queries used for the analysis can be found in: sql_queries/marketing_analysis.sql
