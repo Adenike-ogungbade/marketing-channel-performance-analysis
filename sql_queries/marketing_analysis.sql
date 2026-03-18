@@ -56,3 +56,16 @@ SELECT channel,
 FROM 01_campaign_performance
 GROUP BY channel
 ORDER BY total_spend DESC;
+
+
+-- Funnel Analysis by Channel
+SELECT channel,
+	   SUM(impressions) AS impressions,
+       SUM(clicks) AS clicks,
+	   SUM(activated_users) AS activated_users,
+       SUM(clicks) / SUM(impressions) AS CTR,
+       SUM(activated_users) / SUM(clicks) AS click_to_activation_rate,
+       SUM(activated_users) / SUM(impressions) AS overall_conversion_rate
+FROM 01_campaign_performance
+GROUP BY channel
+ORDER BY impressions DESC;
