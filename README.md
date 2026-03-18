@@ -74,6 +74,24 @@ Retention drops significantly for Paid Social users, with only **6% remaining ac
 
 ---
 
+## Funnel Analysis
+
+Funnel analysis was performed to evaluate user progression through key stages:
+
+- Impressions → Clicks → Activated Users
+
+Key metrics analyzed:
+
+- Click-Through Rate (CTR)
+- Click-to-Activation Rate
+- Overall Conversion Rate
+
+### Key Insight
+
+Referral channels demonstrate the strongest end-to-end conversion efficiency, while Paid Social shows significant drop-off after the click stage, indicating lower user intent.
+
+---
+
 ## Marketing Channel ROI
 
 ![ROI by Channel](visuals/roi_by_channel.png)
