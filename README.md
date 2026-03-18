@@ -104,6 +104,12 @@ Referral channels demonstrate the strongest end-to-end conversion efficiency, wh
 
 ---
 
+## Marketing Funnel
+
+![Funnel Analysis](visuals/funnel_chart.png)
+
+---
+
 ## SQL Queries
 
 All SQL queries used for the analysis can be found in: sql_queries/marketing_analysis.sql
